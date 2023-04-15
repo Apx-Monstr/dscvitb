@@ -4,12 +4,16 @@
             <div class="flex">
                 <div class="flex flex-1 items-center justify-center">
                     <div class="w-[60%]">
-                        <blockquote class="text-2xl font-semibold italic text-center text-white">
-                            When you look
+                        <blockquote class="text-2xl font-semibold italic text-center text-white leading-10 tracking-wide">
+                            You can have  
                             <span class="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-[#ffffff] relative inline-block">
-                                <span class="relative text-slate-900">annoyed</span>
+                                <span class="relative text-slate-900">data</span>
                             </span>
-                            all the time, people think that you're busy.
+                            without information, but you cannot have
+                            <span class="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-[#ffffff] relative inline-block">
+                                <span class="relative text-slate-900">information</span>
+                            </span>
+                            without data
                         </blockquote>
                     </div>
                 </div>

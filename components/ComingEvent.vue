@@ -2,11 +2,11 @@
     <div class="  sec textW  py-24 text-2xl">
         <div class="m-auto max-w-screen-xl flex justify-center items-center">
             <div class="flex flex-col items-center content-center flex-1">
-                <p>
+                <div>
                     
                     <div class="h-1 w-24 bg-gradient-to-r from-[#6c36d3] to-[#1f094e] my-2"></div>
                     Register Now
-                </p>
+                </div>
                 <p class = "text-5xl font-bold textPrim pt-2">
                     ADVITYA 2023
                 </p>
