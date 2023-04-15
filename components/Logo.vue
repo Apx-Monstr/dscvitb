@@ -1,10 +1,10 @@
 <template>
-    <div class = "h-16 flex">
-        <nuxt-link to = "/">
-            <img v-if="color === 'white'" src = "@/assets/middle-removebg.png">
-            <img v-else src= "@/assets/middle-removebg.png">
-        </nuxt-link>
-    </div>
+    <nuxt-link to = "/">
+        <div class = "h-16 flex">
+                <img v-if="color === 'white'" src = "@/assets/middle-removebg.png">
+                <img v-else src= "@/assets/middle-removebg.png">
+        </div>
+    </nuxt-link>
 </template>
 
 <script>
