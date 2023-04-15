@@ -1,5 +1,10 @@
 # dscvitb
 
+## Deployed Website
+
+Inorder to access the deployed website visit the following link
+[DSC VITB](https://dscvitb.netlify.app/)
+
 ## Build Setup
 
 ```bash

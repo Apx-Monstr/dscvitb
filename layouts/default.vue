@@ -27,7 +27,7 @@ export default {
 }
  
 ::-webkit-scrollbar-track {
-  background-color:#ffffff;
+  background-color:rgba(255, 255, 255, 0);
 }
  
 ::-webkit-scrollbar-thumb {

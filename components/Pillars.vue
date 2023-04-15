@@ -9,10 +9,10 @@
             </div>
             <div class="flex w-full aspect-[1/0.45] p-4">
                 <div class="w-full h-full grid place-items-center">
-                    <Profile/>
+                    <Profile url = "https://images.unsplash.com/photo-1534308143481-c55f00be8bd7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2Zlc3NvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" position = "Faculty Co-ordinator"/>
                 </div>
                 <div class="w-full h-full grid place-items-center">
-                    <Profile/>
+                    <Profile name = "Martha" url = "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHByb2Zlc3NvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" position = "Faculty Co-ordinator"/>
                 </div>
             </div>
         </div>
