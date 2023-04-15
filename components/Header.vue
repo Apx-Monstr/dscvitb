@@ -4,7 +4,7 @@
             <div class="flex w-full justify-between">
                 <Logo/>
                 <div class="flex gap-3 py-3">
-                    <nuxt-link to = "">
+                    <nuxt-link to = "/">
                         <Btn text="Blog"/>
                     </nuxt-link>
                     <nuxt-link to = "/about">
@@ -13,7 +13,7 @@
                     <nuxt-link to = "/events">
                         <Btn text="Events"/>
                     </nuxt-link>
-                    <nuxt-link to = "">
+                    <nuxt-link to = "/advitya2023">
                         <Btn text="Register" mode = "color"/>
                     </nuxt-link>
                 </div>

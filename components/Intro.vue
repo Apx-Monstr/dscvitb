@@ -11,7 +11,9 @@
                 <p class="p-1 text-xl pb-10">
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus, voluptatibus? Voluptates dolorum mollitia corrupti error ut. Quos obcaecati totam voluptatem corporis officiis! Eaque accusantium odio sed molestiae velit? Voluptas, eaque.
                 </p>
-                <Btn mode = "color" class = "px-6 py-3" text="Visit Team"/>
+                <nuxt-link to = "/about">
+                    <Btn mode = "color" class = "px-6 py-3" text="Visit Team"/>
+                </nuxt-link>
             </div>
         </div>
     </div>
